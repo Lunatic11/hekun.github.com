@@ -4,7 +4,7 @@
 <tr>
  <td width="400" height="25" align="center">性别：男</td>
   <td width="400" height="25" align="center">年龄：21</td>
-  <td width="450" height="25" align="center">学历：本科（有实习经验）</td>
+  <td width="500" height="25" align="center">学历：本科（有实习经验）</td>
 </tr>
 <tr>
   <td width="400" height="25" align="center">电话：18883681286</td>
