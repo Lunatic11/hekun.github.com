@@ -1,6 +1,6 @@
 # 贺坤
 
-### <table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
  <td width="400" height="25" align="center">性别：男</td>
   <td width="400" height="25" align="center">年龄：21</td>
