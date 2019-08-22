@@ -1,6 +1,6 @@
 # 贺坤
 
-### 电话：18883681286&emsp;&emsp;邮箱：hekun.go@foxmail.com&emsp;&emsp;地址：广东省白云区同和街道蟹山中街
+### 电话：18883681286&emsp;邮箱：hekun.go@foxmail.com&emsp;地址：广东省白云区同和街道蟹山中街
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
