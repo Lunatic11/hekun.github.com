@@ -2,17 +2,17 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
- <td width="400" height="25" align="center">性别：男</td>
-  <td width="400" height="25" align="center">年龄：21</td>
-  <td width="500" height="25" align="center">学历：本科（有实习经验）</td>
+<td width="300" height="25" align="left">性别：男</td>
+<td width="300" height="25" align="left">年龄：21</td>
+<td width="500" height="25" align="left">学历：本科（有实习经验）</td>
 </tr>
 <tr>
-  <td width="400" height="25" align="center">电话：18883681286</td>
-  <td width="400" height="25" align="center">邮箱:hekun.go@foxmail.com</td>
-  <td width="500" height="25" align="center">地址：广东省白云区同和街道蟹山中街</td>
-
+<td width="300" height="25" align="left">电话：18883681286</td>
+<td width="300" height="25" align="left">邮箱:hekun.go@foxmail.com</td>
+<td width="500" height="25" align="left">地址：广东省白云区同和街道蟹山中街</td>
 </tr>
 </table>
+        
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
