@@ -2,14 +2,14 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="250" height="25" align="left">性别：男</td>
-<td width="250" height="25" align="left">年龄：21</td>
-<td width="500" height="25" align="left">学历：本科（有实习经验）</td>
+<td width="200" height="25" align="left">性别：男</td>
+<td width="200" height="25" align="left">年龄：21</td>
+<td width="600" height="25" align="left">学历：本科（有实习经验）</td>
 </tr>
 <tr>
-<td width="250" height="25" align="left">电话：18883681286</td>
-<td width="250" height="25" align="left">邮箱:hekun.go@foxmail.com</td>
-<td width="500" height="25" align="left">地址：广东省白云区同和街道蟹山中街</td>
+<td width="200" height="25" align="left">电话：18883681286</td>
+<td width="200" height="25" align="left">邮箱:hekun.go@foxmail.com</td>
+<td width="600" height="25" align="left">地址：广东省白云区同和街道蟹山中街</td>
 </tr>
 </table>
 
