@@ -9,7 +9,7 @@
 <tr>
 <td width="250" height="25" align="left">电话：18883681286</td>
 <td width="250" height="25" align="left">邮箱:hekun.go@foxmail.com</td>
-<td width="700" height="25" align="left">地址：广东省白云区同和街道蟹山中街</td>
+<td width="700" height="25" align="left">地址：广州市白云区同和街道</td>
 </tr>
 </table>
 
