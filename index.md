@@ -34,9 +34,9 @@
 4. 对有缺陷的功能进行修改。<br/>
 
 #### 实现技术： 
-JavaScript、Html5、CSS、BootStarp、jQuery、Mysql、Java、Md5。
+JavaScript、Html5、CSS、BootStarp、jQuery、Mysql、Java、Spring。
 
-### 重庆市四海土地房屋勘测规划设计有限公司（第三次全国土地普查）
+### 重庆市四海土地房屋勘测规划设计有限公司
   _数据库工程师 | 技术部_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018.12—2019.03
 #### 工作内容：
  此次项目为全国第三次土地调查,我在负责将土地资料上传到数据库，对其进行增删查改操作。
@@ -46,7 +46,7 @@ JavaScript、Html5、CSS、BootStarp、jQuery、Mysql、Java、Md5。
 3. 将录取的土地资料按不同分类上传到指定的数据库。<br/>
 
 #### 实现技术：
-Mysql、Java、Web、jQuery、MD5
+Mysql、Java、Web、jQuery、Hibernate
 
 ### 重庆新思维信息技术有限公司
   _Java实习生 | 技术部_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018.07—2018.08
@@ -62,19 +62,6 @@ Mysql、Java、Spring、Web、JavaScript、j2ee
 
 
 ## 项目经历
-
-### Running校园互助
-  _微信小程序开发工程师_	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.03—2019.04
-#### 项目描述：
-通过此项目参加大学生创业大赛，该项目旨在通过电商模式实现校园服务，以便于资源利用最大化。
-#### 实现技术：
-VueJS、SpringBoot、MyBatis、Maven、Git 
-#### 职责描述： 
-1. 作为团队开发之一，不仅负责开发工作，同时负责项目管理，需求整理和项目推进;
-2. 通过降低项目耦合度（如短信发送、项目同步），使得订单模块请求的处理速度比原来提高16%。<br/>
-
-#### 项目链接：
-微信小程序搜索：Running校园互助。
 
 ### 真爱粉组合填词
   _微信小程序开发工程师_	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.02—2019.03
