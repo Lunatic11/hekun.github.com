@@ -15,15 +15,15 @@
 
 
 ##  自我评价
-Web开发：熟练H5+CSS+JavaScript+jQuery+BootStarp+Ajax+PHP开发；
-前端框架：熟练使用Vue.js,了解React.js、Node.js、Angular.js；
-前端工具：Hbuilder、Visual Code、IDEA；
-数据库：熟练使用MySQL、Miscrosoft SQL Server；
-Web服务器：熟练使用AppServ、Tomcat、Apache，掌握Nginx；
-操作系统：基于Windows、Linux、Mac开发；
-版本管理、文档和自动化部署工具：熟练使用GitHub、SVN；
-信息安全：掌握MD5、SHA，了解DSA、ASE、RSA；
-设计美工：熟悉使用PhotoShop、Miscrosoft Visio思维导图；
+Web开发：熟练H5+CSS+JavaScript+jQuery+BootStarp+Ajax+PHP开发；<br/>
+前端框架：熟练使用Vue.js,了解React.js、Node.js、Angular.js；<br/>
+前端工具：Hbuilder、Visual Code、IDEA；<br/>
+数据库：熟练使用MySQL、Miscrosoft SQL Server；<br/>
+Web服务器：熟练使用AppServ、Tomcat、Apache，掌握Nginx；<br/>
+操作系统：基于Windows、Linux、Mac开发；<br/>
+版本管理、文档和自动化部署工具：熟练使用GitHub、SVN；<br/>
+信息安全：掌握MD5、SHA，了解DSA、ASE、RSA；<br/>
+设计美工：熟悉使用PhotoShop、Miscrosoft Visio思维导图；<br/>
 我具有很强的编程、学习和文档能力； 计算机类比赛和实习经历较多，能使用gitHub等网站独立检索所需的资料，对于不熟悉的领域能快速上手； 担任过学生会干事和班委，具备较强的管理、抗压能力、心理素质和团队意识。
 
 
