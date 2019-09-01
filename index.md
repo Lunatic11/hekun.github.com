@@ -14,27 +14,35 @@
 </table>
 
 
-##  个人优势
-熟悉使用IDEA、Eclipse、Hbuider、微信开发者工具等软件进行产品设计、网站和微信小程序开发，具有良好的编程、学习和文档能力； 计算机类比赛和实习经历较多，能使用github等网站独立检索所需的资料，对于不熟悉的领域能快速上手； 担任过学生会干事和班委，具备较强的管理能力、心理素质和团队意识。
+##  自我评价
+Web开发：熟练H5+CSS+JavaScript+jQuery+BootStarp+Ajax+PHP开发；
+前端框架：熟练使用Vue.js,了解React.js、Node.js、Angular.js；
+前端工具：Hbuilder、Visual Code、IDEA；
+数据库：熟练使用MySQL、Miscrosoft SQL Server；
+Web服务器：熟练使用AppServ、Tomcat、Apache，掌握Nginx；
+操作系统：基于Windows、Linux、Mac开发；
+版本管理、文档和自动化部署工具：熟练使用GitHub、SVN；
+信息安全：掌握MD5、SHA，了解DSA、ASE、RSA；
+设计美工：熟悉使用PhotoShop、Miscrosoft Visio思维导图；
+我具有很强的编程、学习和文档能力； 计算机类比赛和实习经历较多，能使用gitHub等网站独立检索所需的资料，对于不熟悉的领域能快速上手； 担任过学生会干事和班委，具备较强的管理、抗压能力、心理素质和团队意识。
 
 
 ## 我的期望
-职位：Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地点：广州 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 工资：3-5K
+职位：Web前端 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 地点：广州 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 工资：3-5K
 
 
 ## 工作经历
 ### 重庆卓睿信息技术有限公司
-  _Java实习生 | 开发部_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.01—2019.02
+  _Web前端开发实习生 | 开发部_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2019.01—2019.02
 #### 工作内容：
 我在其中负责员工管理系统，该系统主要为了实现让开发者团队可以分布式协同办公，能够快速的交流、分享意见和发布已经完成的代码让别的成员下载、修改等；我主要负责其中的前端开发和后端维护。
 #### 职责描述：
 1. 按照甲方所提的需求对前端页面进行设计和实现；
 2. 对于甲方提出的功能更改需求或BUG进行网站进行重新布局并修改；
-3. 对数据库进行增删查改；
-4. 对有缺陷的功能进行修改。<br/>
+3. 对有缺陷的功能进行修改。<br/>
 
 #### 实现技术： 
-JavaScript、Html5、CSS、BootStarp、jQuery、Mysql、Java、Spring。
+JavaScript、Html5、CSS、BootStarp、jQuery、Vue.js。
 
 ### 重庆市四海土地房屋勘测规划设计有限公司
   _数据库工程师 | 技术部_ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2018.01—2019.02
@@ -97,7 +105,7 @@ SpringMVC+MyBatis+Mysql+VueJS+HTML5+CSS3+JavaScript+Maven
 <br/> 
 
 #### 主修课程： 
-C、Java、Web编程、Linux、数据库原理与应用、数据结构、计算机操作系统、计算机网络、软件工程、大数据技术与应用、分布式系统与云计算、数据仓库与数据挖掘、Photoshop、管理学、运筹学、电子商务、经济学
+Html5+Css+JavaScript、Php、Photoshop、C、Java、Web编程、Linux、数据库原理与应用、数据结构、计算机操作系统、计算机网络、软件工程、大数据技术与应用、分布式系统与云计算、数据仓库与数据挖掘、管理学。
 
 
 ## 资格证书
