@@ -1,5 +1,7 @@
 # 贺坤
-![hekun]("/hekun.jpg")
+<p align="right">
+	<img src="/hekun.jpg" alt="Sample"  width="131" height="183">
+</p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="250" height="25" align="left">性别：男</td>
