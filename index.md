@@ -1,6 +1,6 @@
 # 贺坤
 <p align="right">
-	<img src="https://github.com/Lunatic11/hekun.github.com/blob/master/hekun.jpg" alt="Sample"  width="131" height="183">
+	<img src="https://github.com/Lunatic11/hekun.github.com/blob/master/hekun.jpg"  width="131" height="183">
 </p>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
