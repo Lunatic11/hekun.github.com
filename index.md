@@ -1,5 +1,6 @@
 # 贺坤
-
+<div>
+<img src="/hekun.jpg" width="131" hegiht="183" align=right /></div>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="250" height="25" align="left">性别：男</td>
